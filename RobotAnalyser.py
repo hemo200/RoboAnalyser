@@ -1,5 +1,5 @@
-import os
 
+import os
 HTTP_redirect = []
 HTTP_OK = []
 HTTP_UNAUTH = []
