@@ -1,0 +1,8 @@
+{
+  "go.goroot": "/snap/go/current",
+  "go.delveConfig": {},
+  "gopls": {
+    "formatting.gofumpt": true
+
+  }
+}
